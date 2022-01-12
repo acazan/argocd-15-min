@@ -15,8 +15,6 @@ spec:
       values: |
         image:
           tag: latest
-        ingress:
-          host: devops-paradox.192.168.49.2.xip.io
       version: v3
   destination:
     namespace: production
